@@ -21,7 +21,7 @@ Hi there my name is Umesh Uday, an experienced Azure DevOps Engineer with a pass
 - Email: umesh.uday@outllook.com
 <!-- inkedIn: linkedin.com/in/umeshuday 🔗-->
 
-Looking for an experienced and dedicated Azure DevOps Engineer? Look no further than Umesh Uday.🚀
+ experienced and dedicated Azure DevOps Engineer🚀
 
 
 ### Project Deployed 
