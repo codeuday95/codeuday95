@@ -13,6 +13,7 @@ Hi there my name is Umesh Uday, an experienced  DevOps Engineer/SRE with a passi
 - Cloud Infrastructure Management 🌩️
 - Configuration Management 🔧
 - Monitoring and Logging 📊
+- System forensics
 
 ## Certification 🎓
 - Microsoft Certified: Azure DevOps Engineer Expert 🏆
