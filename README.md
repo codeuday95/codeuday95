@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 🚀 Umesh Uday - Senior Cloud DevOps Engineer/SRE 🌩️
 
-Hi there my name is Umesh Uday, an experienced  DevOps Engineer/SRE with a passion for delivering high-quality software 🚀. With a strong background in cloud-based technologies 🌩️, well-versed in designing, building and deploying complex applications on the Azure platform 💻.
+Hey there! I'm Umesh Uday, an experienced  DevOps Engineer/SRE with a passion for delivering  seamless, scalable, and high-performing solutions 🚀. My expertise spans across cloud ecosystems , where I design, automate, and optimize complex infrastructures to deliver reliability, speed, and innovation 🌩️💻
 
 ## Skills 🔧
 - Azure DevOps 🌩️
