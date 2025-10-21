@@ -10,6 +10,7 @@ Hey there! I'm Umesh Uday, an experienced  DevOps Engineer/SRE with a passion fo
 - Automation 🤖
 - Performance Optimization 🚀
 - Continuous Integration and Continuous Deployment (CI/CD) 🛠️
+- Scripting
 - Cloud Infrastructure Management 🌩️
 - Configuration Management 🔧
 - Monitoring and Logging 📊
