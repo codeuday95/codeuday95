@@ -17,7 +17,7 @@ Hey there! I'm Umesh Uday, an experienced  DevOps Engineer/SRE with a passion fo
 
 ## Certification 🎓
 - Microsoft Certified: Azure DevOps Engineer Expert 🏆
-- Simplilearn :AWS Cloud Practitioner Essential
+- Simplilearn: AWS Cloud Practitioner Essential
 
 ## Contact 📱
 - Email: umesh.uday@outllook.com
