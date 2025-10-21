@@ -4,7 +4,7 @@
 Hey there! I'm Umesh Uday, an experienced  DevOps Engineer/SRE with a passion for delivering  seamless, scalable, and high-performing solutions 🚀. My expertise spans across cloud ecosystems , where I design, automate, and optimize complex infrastructures to deliver reliability, speed, and innovation 🌩️💻
 
 ## Skills 🔧
-- Azure DevOps 🌩️
+- DevOps 🌩️
 - Infrastructure as Code 🛠️
 - Containerization 📦
 - Automation 🤖
@@ -17,6 +17,7 @@ Hey there! I'm Umesh Uday, an experienced  DevOps Engineer/SRE with a passion fo
 
 ## Certification 🎓
 - Microsoft Certified: Azure DevOps Engineer Expert 🏆
+- Simplilearn :AWS Cloud Practitioner Essential
 
 ## Contact 📱
 - Email: umesh.uday@outllook.com
