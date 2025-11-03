@@ -20,7 +20,7 @@ Hey there! I'm Umesh Uday, an experienced  DevOps Engineer/SRE with a passion fo
 - Email: umesh.uday@outllook.com
 <!-- inkedIn: linkedin.com/in/umeshuday 🔗-->
 
- experienced and dedicated Azure DevOps Engineer🚀
+ experienced and dedicated DevOps Engineer🚀
 
 
 ### Project Deployed 
