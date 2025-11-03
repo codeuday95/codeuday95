@@ -35,6 +35,7 @@ Hey there! I'm Umesh Uday, an experienced  DevOps Engineer/SRE with a passion fo
 ### Technologies
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-000?logo=microsoft-azure)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![GCP](https://img.shields.io/badge/Google_Cloud-000?logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
