@@ -16,10 +16,6 @@ Hey there! I'm Umesh Uday, an experienced  DevOps Engineer/SRE with a passion fo
 - Monitoring and Logging 📊
 - System forensics
 
-## Certification 🎓
-- Microsoft Certified: Azure DevOps Engineer Expert 🏆
-- Simplilearn: AWS Cloud Practitioner Essential
-
 ## Contact 📱
 - Email: umesh.uday@outllook.com
 <!-- inkedIn: linkedin.com/in/umeshuday 🔗-->
