@@ -21,8 +21,6 @@ Hey there! I'm Umesh Uday, an experienced  Engineer with a passion for deliverin
 - Email: umesh.uday@outllook.com
 <!-- inkedIn: linkedin.com/in/umeshuday 🔗-->
 
- experienced and dedicated DevOps Engineer🚀
-
 
 ### Project Deployed 
 
