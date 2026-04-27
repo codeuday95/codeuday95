@@ -20,6 +20,7 @@ My expertise spans cloud ecosystems, where I design, automate, and optimize comp
 - Configuration Management 🔧
 - Monitoring and Logging 📊
 - System forensics
+- Mentoring Team Collaboration
 
 ## Contact 📱
 - Email: umesh.uday@outllook.com
