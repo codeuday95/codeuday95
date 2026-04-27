@@ -1,7 +1,11 @@
 ### Hi there 👋
-# 🚀 Umesh Uday - Senior Engineer 🌩️
+# 🚀 Umesh Uday - Senior Engineer & Lead 🌩️
 
-Hey there! I'm Umesh Uday, an experienced  Engineer with a passion for delivering  seamless, scalable, and high-performing solutions 🚀. My expertise spans across cloud ecosystems , where I design, automate, Integrate AI and optimize complex infrastructures to deliver reliability, speed, and innovation 🌩️💻
+Hey there! I'm Umesh Uday, a Senior Engineer who goes beyond building systems—I lead, mentor, and collaborate with engineers to deliver scalable, high-performing solutions 🚀
+
+I have hands-on experience managing and guiding engineering efforts, working closely with cross-functional teams, and driving projects from design to production. I focus on enabling teams to move faster, make better technical decisions, and deliver reliable outcomes.
+
+My expertise spans cloud ecosystems, where I design, automate, and optimize complex infrastructures, integrate AI capabilities, and ensure systems are resilient, efficient, and future-ready
 
 ## Skills 🔧
 - Design Cloud Infrastructure 
